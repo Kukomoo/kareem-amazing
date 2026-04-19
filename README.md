@@ -1,2 +1,3 @@
-# kareem-amazing
-[globe] Test is written here
+vault_name: Kareem amazing
+vault_icon: globe
+vault_description: Test is written here
